@@ -1,0 +1,5 @@
+KTOPL,SAKNR,TXT50,XLOEV,SPERR
+INT1,100000,Cash,,
+INT1,120000,Accounts Receivable,,
+INT1,200000,Accounts Payable,,
+INT1,400000,Revenue,,

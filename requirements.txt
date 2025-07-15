@@ -1,0 +1,11 @@
+flask
+openai
+python-dotenv
+pandas
+python-dateutil
+numpy
+werkzeug
+flask-cors
+python-magic
+openpyxl
+xlrd

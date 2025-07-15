@@ -1,0 +1,224 @@
+2025-07-13 15:52:52,767 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T15:52:52.767103",
+  "error_type": "ai_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": {
+    "question": "Show me overdue invoices"
+  }
+}
+2025-07-13 15:52:52,768 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T15:52:52.768104",
+  "error_type": "app_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "Show me overdue invoices"
+  }
+}
+2025-07-13 20:39:43,577 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:39:43.577570",
+  "error_type": "file_upload_error",
+  "error_message": "local variable 'df' referenced before assignment",
+  "context": null
+}
+2025-07-13 20:40:28,623 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:40:28.623354",
+  "error_type": "file_upload_error",
+  "error_message": "local variable 'df' referenced before assignment",
+  "context": null
+}
+2025-07-13 20:46:46,212 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:46:46.212572",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 20:46:46,216 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:46:46.216528",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does "
+  }
+}
+2025-07-13 20:49:55,291 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:49:55.291565",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 20:52:54,591 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:52:54.591114",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 20:52:54,592 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:52:54.592119",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 20:56:43,870 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:56:43.870664",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 20:56:43,871 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T20:56:43.871676",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "tell me what this report does"
+  }
+}
+2025-07-13 21:03:57,412 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:03:57.412633",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:03:57,440 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:03:57.439733",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "tell me what this report does"
+  }
+}
+2025-07-13 21:04:58,027 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:04:58.027003",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:04:58,028 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:04:58.028295",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:19:21,200 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:19:21.200200",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:19:21,240 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:19:21.240479",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:19:29,604 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:19:29.604556",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:19:29,605 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:19:29.605766",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:31:48,725 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:31:48.725341",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:31:48,726 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:31:48.726887",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:31:51,551 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:31:51.551768",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:31:51,553 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:31:51.553287",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:32:20,520 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:32:20.520803",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:32:20,522 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:32:20.522881",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "what does this report do?"
+  }
+}
+2025-07-13 21:47:03,320 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:47:03.320291",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:47:03,321 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:47:03.321297",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:52:13,047 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:52:13.047396",
+  "error_type": "ai_insights_error",
+  "error_message": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "context": null
+}
+2025-07-13 21:52:13,049 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:52:13.049740",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
+2025-07-13 21:54:14,120 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:54:14.120555",
+  "error_type": "ai_insights_error",
+  "error_message": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+  "context": null
+}
+2025-07-13 21:54:14,121 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T21:54:14.121554",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "test"
+  }
+}
+2025-07-13 22:21:44,876 - sap_demo.app - ERROR - Error: {
+  "timestamp": "2025-07-13T22:21:44.876690",
+  "error_type": "query_processing_error",
+  "error_message": "Object of type int64 is not JSON serializable",
+  "context": {
+    "question": "explain to me what this report does"
+  }
+}
