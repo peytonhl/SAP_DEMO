@@ -59,8 +59,11 @@ The demo uses mock SAP ECC tables:
 
 3. **Set up environment**:
    ```bash
-   # Create .env file
-   echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+   # Copy the example environment file
+   cp .env.example .env
+   
+   # Edit .env and add your actual OpenAI API key
+   # Get your API key from: https://platform.openai.com/api-keys
    ```
 
 4. **Run the application**:
